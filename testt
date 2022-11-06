@@ -1,0 +1,2 @@
+name = "vu quang trung"
+print(name.strip())
